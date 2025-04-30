@@ -3,8 +3,8 @@ package corejavaBasics;
 public class MethodDemo {
 	// Create a customized method
 	public static void add() {
-		int a = 989;
-		int b = 880;		
+		int a = 9;
+		int b = 8;		
 		System.out.println("I am ADD method");
 		System.out.println(a+b);
 	}
